@@ -9,12 +9,16 @@ if you want to add an answer to the question that you asked. If you type
 "yes" then you can add an answer to that query. If you repeat the same
 query then you can hear the answer that it says.
 
+
 How to run it?
 
-To run the software, go into table directory and execute the binary "execute_2"
+To run the software, go into table directory and execute the binary "execute_2
+
 
 How to use it?
+
 To start with, type "what is your name" or type "where do you live".
+
 
 Dependencies:
 
